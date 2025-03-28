@@ -12,7 +12,7 @@ A React application showcasing integration with the DummyJSON API, built with Re
 - ⚡ Fast development with Vite
 
 ## Live Demo
-
+Live App URL- https://shopping-app-nu-virid.vercel.app/
 
 
 ## Pages
@@ -43,7 +43,7 @@ Before you begin, ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/dummyjson-demo.git
+   git clone https://github.com/Adii-Srivastava/Shopping-App
    ```
 
 2. Navigate to the project directory:
