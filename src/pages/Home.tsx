@@ -28,7 +28,7 @@ const Home = () => {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 1 }}
         >
-          Elevate Your Shoping Presence
+          Elevate Your Shopping Presence
         </motion.h1>
         <motion.p
           className="mt-4 text-lg sm:text-xl"
